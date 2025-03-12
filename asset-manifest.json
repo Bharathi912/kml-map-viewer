@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d011368.css",
-    "main.js": "/static/js/main.5e64e801.js",
-    "static/js/453.5ecb4085.chunk.js": "/static/js/453.5ecb4085.chunk.js",
-    "index.html": "/index.html",
-    "main.2d011368.css.map": "/static/css/main.2d011368.css.map",
-    "main.5e64e801.js.map": "/static/js/main.5e64e801.js.map",
-    "453.5ecb4085.chunk.js.map": "/static/js/453.5ecb4085.chunk.js.map"
+    "main.css": "/kml-map-viewer/static/css/main.2d011368.css",
+    "main.js": "/kml-map-viewer/static/js/main.30e223a1.js",
+    "static/js/453.5ecb4085.chunk.js": "/kml-map-viewer/static/js/453.5ecb4085.chunk.js",
+    "index.html": "/kml-map-viewer/index.html",
+    "main.2d011368.css.map": "/kml-map-viewer/static/css/main.2d011368.css.map",
+    "main.30e223a1.js.map": "/kml-map-viewer/static/js/main.30e223a1.js.map",
+    "453.5ecb4085.chunk.js.map": "/kml-map-viewer/static/js/453.5ecb4085.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d011368.css",
-    "static/js/main.5e64e801.js"
+    "static/js/main.30e223a1.js"
   ]
 }
